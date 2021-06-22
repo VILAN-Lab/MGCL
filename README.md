@@ -10,7 +10,6 @@
 - l six 1.14.0
 - l numpy 1.18.5
 - l tensorboard 2.2.1
-- 
 
 ## Quick start:
 
