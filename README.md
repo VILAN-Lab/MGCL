@@ -1,6 +1,6 @@
 # MGCL: Image-guided Story Ending Generation
 
-##### Code for paper "IgSEG: Image-guided Story Ending Generation", Findings of ACL 2021.
+<!--##### Code for paper "IgSEG: Image-guided Story Ending Generation", Findings of ACL 2021.-->
 
 ## Prerequisites
 
